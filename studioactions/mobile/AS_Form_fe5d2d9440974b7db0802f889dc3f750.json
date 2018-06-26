@@ -1,0 +1,24 @@
+{
+    "AS_Form_fe5d2d9440974b7db0802f889dc3f750": {
+        "id": "AS_Form_fe5d2d9440974b7db0802f889dc3f750",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmHome",
+            "type": "forms",
+            "platform": "",
+            "KUID": "e6d5287c587d467bb4ac329be64b1666"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__c414c3a9442a49199ba8f6fb0b7a8722",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.hideBackButton();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,144 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_children_": [],
+    "_height_": {
+        "type": "string",
+        "value": "10%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_render_": true,
+    "_skin_": "s10f2597dbd2470bb123e32a953f6a42",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "areflexpropsreferenced": false,
+    "canUpdateUI": true,
+    "clipbounds": true,
+    "containerweight": 0,
+    "dataDiffs": {
+        "appMainHeader": {
+            "__events__": {},
+            "__info__": {
+                "isRoot": true,
+                "kuid": "bbe3bece54fe4422bdd790e224d2212b",
+                "srcKUID": "f4afcff703214941827a32a9a943109d",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxAppLogo": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "cadefdfe67404f3d9ab647fed7c3fe1e",
+                "srcKUID": "e966501a7b2641898d52277c1ea58d43",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxBackBtnIcon": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "g2be233bf00f4f8691f922b1678a8f21",
+                "srcKUID": "a625ee68793746549644c157ec5e2b13",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxHamBurgerIcon": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "f69efaf0dff742c7a00aacd90ff97a0b",
+                "srcKUID": "fb083015b99e4848934e21a75a5c2223",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxSearchIcon": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "a8eeb2fafca9495d8866eb1b4710d3da",
+                "srcKUID": "e3c359a3e7bf4f60a61a4f97f22be97e",
+                "wType": "FlexContainer"
+            }
+        },
+        "imgAppLogo": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "hfa08f726ae34fafb28ba28354695b77",
+                "srcKUID": "d3918eccc31040e993d815f24fcc1951",
+                "wType": "Image"
+            }
+        },
+        "imgBackBtnIcon": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "db0cc39eedfa4293a4f8e4ea2b33745f",
+                "srcKUID": "e0f66db63ee1451091f6cd8eee236c5e",
+                "wType": "Image"
+            }
+        },
+        "imgHamBurgerIcon": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "gaf84d691764435698839f9945a2aa3e",
+                "srcKUID": "c1013eaf321f41708315f0cec72c28e3",
+                "wType": "Image"
+            }
+        },
+        "imgSearchIcon": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "h6e6eb722e5949e8b8d07430f142fc92",
+                "srcKUID": "cb674cea46d54f519c610c3aec91e2a5",
+                "wType": "Image"
+            }
+        },
+        "lblHeaderBorder": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "cc43863d89c74f4e86b627162c97ad15",
+                "srcKUID": "f27e2b3df95743ab9917f462dca191b0",
+                "wType": "Label"
+            }
+        }
+    },
+    "id": "appMainHeader",
+    "info": null,
+    "iscustomlayout": false,
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "bbe3bece54fe4422bdd790e224d2212b",
+    "layouttype": 2,
+    "masterType": 0,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "flxHomeContainer",
+    "pf": "frmHome",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "snaptogrid": true,
+    "sourceUserWidget": "f4afcff703214941827a32a9a943109d",
+    "vizprops": {
+        "hidewidgethierarchy": false
+    },
+    "wType": "UserWidgetInstance"
+}
