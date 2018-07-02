@@ -31,20 +31,20 @@
     "controllerInfo": {
         "default": {
             "channel": "mobile",
-            "name": "FBox0dfdff38197d84aController"
+            "name": "CopyFBox0d3a79cef6d5447Controller"
         }
     },
     "enablescrolling": true,
-    "id": "FBox0dfdff38197d84a",
+    "id": "CopyFBox0d3a79cef6d5447",
     "info": null,
     "isGeneratedTemplate": true,
     "isTemplate": true,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "a547392bb78e43d0bbd5054f5683036a",
+    "kuid": "ff57a26c4c974115b3253fceefd6d0b0",
     "layouttype": 2,
     "name": "kony.ui.FlexContainer",
-    "pf": "FBox0dfdff38197d84a",
+    "pf": "CopyFBox0d3a79cef6d5447",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "snapgridsize": 10,

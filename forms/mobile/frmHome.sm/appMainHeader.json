@@ -58,7 +58,9 @@
             }
         },
         "flxBackBtnIcon": {
-            "__events__": {},
+            "__events__": {
+                "ide_onClick": "AS_FlexContainer_jbafeb1843454c83af1bf1d8791c3a4c"
+            },
             "__info__": {
                 "kuid": "g2be233bf00f4f8691f922b1678a8f21",
                 "srcKUID": "a625ee68793746549644c157ec5e2b13",
@@ -66,7 +68,9 @@
             }
         },
         "flxHamBurgerIcon": {
-            "__events__": {},
+            "__events__": {
+                "ide_onClick": "AS_FlexContainer_j0a2ac1b5f3a4bf899722a6b4f5d6241"
+            },
             "__info__": {
                 "kuid": "f69efaf0dff742c7a00aacd90ff97a0b",
                 "srcKUID": "fb083015b99e4848934e21a75a5c2223",

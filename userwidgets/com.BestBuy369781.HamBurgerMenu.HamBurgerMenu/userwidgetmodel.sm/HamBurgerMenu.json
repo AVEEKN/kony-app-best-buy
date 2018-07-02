@@ -7,7 +7,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "0dp"
+        "value": "-80%"
     },
     "_margin_": [
         0,
@@ -35,7 +35,7 @@
     "allboxes": [],
     "canUpdateUI": true,
     "children": [
-        "flxHBMenuContainer"
+        "flxHBMenu"
     ],
     "clipbounds": true,
     "containerweight": 100,

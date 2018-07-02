@@ -18,7 +18,6 @@
             "type": "SET_WIDGET_PROPERTY",
             "itemType": "FORM",
             "itemId": "frmHome",
-            "widgetId": "segCategoryList",
             "propertyName": "data",
             "propertyValue": [],
             "itemKUID": "e6d5287c587d467bb4ac329be64b1666",
@@ -28,8 +27,7 @@
             "wType": "Segment",
             "forkedPlatform": "all",
             "parentId": null,
-            "callbackType": null,
-            "widgetPath": "this.view.segCategoryList"
+            "callbackType": null
         }]
     }
 }

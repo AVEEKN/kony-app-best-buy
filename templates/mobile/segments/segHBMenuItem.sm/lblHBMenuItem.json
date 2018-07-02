@@ -8,7 +8,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "20%"
+        "value": "30%"
     },
     "_margin_": [
         1,
@@ -22,11 +22,11 @@
         0,
         0
     ],
-    "_skin_": "sd7b136f8a8a49acbcd545b2922f9f3e",
-    "_text_": "Stores",
+    "_skin_": "s58869efcc304d32a20721fe03d641fb",
+    "_text_": "Label",
     "_top_": {
         "type": "string",
-        "value": "13%"
+        "value": "13dp"
     },
     "_width_": {
         "type": "ref",
@@ -40,9 +40,10 @@
         }
     },
     "canUpdateUI": true,
+    "containerId": true,
     "containerweight": 100,
     "contentalignment": 4,
-    "id": "lblStores",
+    "id": "lblHBMenuItem",
     "info": null,
     "ipad": {
         "psp": {
@@ -56,10 +57,10 @@
     },
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "c21f51a995bb4a8f944563669e5998d4",
+    "kuid": "ieece1114bc3464d92b3fbc57c6449da",
     "name": "kony.ui.Label",
-    "parent": "flxHBMenuContainer",
-    "pf": "userwidgetmodel",
+    "parent": "flxHBMenuItem",
+    "pf": "segHBMenuItem",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "textstyle": {},

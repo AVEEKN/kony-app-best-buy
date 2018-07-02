@@ -30,7 +30,8 @@
     },
     "canUpdateUI": true,
     "children": [
-        "flxHomeContainer"
+        "flxHomeContainer",
+        "flxMenuContainer"
     ],
     "containerweight": 100,
     "controllerInfo": {
@@ -47,6 +48,7 @@
     "displayorientation": 1,
     "enabledforidletimeout": false,
     "id": "frmHome",
+    "ide_postShow": "AS_Form_i6b01821538148c88b7ac219af7984dd",
     "ide_preShow": "AS_Form_d6763720205041cfb7c6bed1b4cf3f35",
     "info": null,
     "initdone": false,

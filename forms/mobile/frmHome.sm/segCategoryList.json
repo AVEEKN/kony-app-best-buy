@@ -23,13 +23,13 @@
         }
     ],
     "_height_": {
-        "type": "ref",
-        "value": "preferred"
+        "type": "string",
+        "value": "100%"
     },
     "_indicator_": "none",
     "_left_": {
         "type": "string",
-        "value": "3dp"
+        "value": "0dp"
     },
     "_margin_": [
         0,
@@ -46,13 +46,13 @@
     ],
     "_top_": {
         "type": "string",
-        "value": "3.03%"
+        "value": "0%"
     },
     "_width_": {
         "type": "string",
-        "value": "94%"
+        "value": "100%"
     },
-    "autogrowmode": 1,
+    "autogrowmode": 0,
     "canUpdateUI": true,
     "centerx": {
         "type": "string",
@@ -62,10 +62,11 @@
     "counter": "02",
     "focusedindex": null,
     "focuseditem": null,
-    "generatedtemplate": "a547392bb78e43d0bbd5054f5683036a",
+    "generatedtemplate": "ff57a26c4c974115b3253fceefd6d0b0",
     "groupcells": false,
     "hasSections": false,
     "id": "segCategoryList",
+    "ide_onRowClick": "AS_Segment_i31118da8d074f33a62d7794380aff41",
     "info": null,
     "ipad": {
         "psp": {
@@ -79,7 +80,7 @@
     },
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "bb4b922e653046deb020dd57ace943bd",
+    "kuid": "a2ab482813664f7e84415c6ece332257",
     "masterdata": {},
     "name": "kony.ui.SegmentedUI2",
     "needpageindicator": true,
@@ -108,9 +109,7 @@
     "selecteditems": null,
     "selectedsectionindex": 0,
     "selectionbehavior": "default",
-    "separatorcolor": "aaaaaa00",
-    "separatorrequired": true,
-    "separatorthickness": 1,
+    "separatorrequired": false,
     "showscrollbars": false,
     "viewtype": "tableview",
     "wType": "Segment",
